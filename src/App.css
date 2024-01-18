@@ -1,0 +1,17 @@
+/* BODY */
+
+body {
+    background-image: url(https://image.gazetevatan.com/i/gazetevatan/75/0x0/64f95777e14f2adf329bdd78.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100%;
+    height: 100vh;
+}
+
+/* HEADER */
+
+.header .search::placeholder {
+    color:white;
+    font-size: 18px;
+}
